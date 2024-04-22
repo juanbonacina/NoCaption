@@ -1,0 +1,57 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: web nocaption.ai
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: p’xeles
+Dimensiones de la mesa de trabajo: 1080 px x 1860 px
+Mostrar im‡genes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edici—n de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Bebas Neue Regular (TrueType)
+Oswald Regular (TrueType)
+Proxima Nova Regular (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Im‡genes enlazadas:
+
+/Usuarios/imac/Descargas/IMAGEN WEB.psb
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 18037K, 2886 por 1600 p’xeles
+Dimensiones: 2174,398 por 1205,487 puntos 
+Resoluci—n: 95,563 por 95,563 p’xeles por pulgada
+
+
+/Usuarios/imac/Descargas/IMAGEN WEB.psb
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 18037K, 2886 por 1600 p’xeles
+Dimensiones: 3401,17 por 1885,61 puntos 
+Resoluci—n: 61,094 por 61,094 p’xeles por pulgada

@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+main {
+    background-image: url(IMG/web_nocaption.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    height: 100vh;
+
+}
+
+main div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+    width: 100%;
+    padding-right: 50px;
+}
+main div div{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    width: 100%;
+    padding-right: 0px;
+}
+h1{
+    color: white;
+    font-size: 65pt;
+}
+img{
+    padding-right: 10px;
+}
+a{
+    color: black;
+    font-size: 16pt;
+    padding-right: 10px;
+}
+
+@media only screen and (max-width: 500px) {
+    main{
+        display: flex;
+        justify-content: center;
+        background-image: url(IMG/web_nocaption_Mobile.jpg);
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+    }
+    main div{
+       padding-right: 20px;
+       
+    }
+    h1{
+        padding-top: 380px;
+        font-size: 25pt;
+        
+    }
+    a{
+        font-size: 14pt;
+    }
+}
